@@ -6,5 +6,9 @@
         {
             Console.WriteLine("Hello Class");
         }
+        public void sayHelloName(string name)
+        {
+            Console.WriteLine(name);
+        }
     }
 }
